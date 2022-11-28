@@ -1,0 +1,14 @@
+.contador{
+
+    min-width: 300px;  /* ancho minimo */
+    height: 300px;
+    font-size: 160px;
+    padding: 25px;
+    color: rgb(36, 37, 37);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid;
+    border-radius: 100px;
+    margin-bottom: 15px;
+}
